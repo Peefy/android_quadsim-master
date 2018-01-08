@@ -1,0 +1,282 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA1-Digest: f8/kyavmUTFeX5a2ENaOHtIsGW8=
+
+Name: assets/bin/Data/splash.png
+SHA1-Digest: Frnw66Oq1ciLwcwCriu77OUWmMI=
+
+Name: assets/bin/Data/sharedassets4.assets
+SHA1-Digest: vq7d3XaB68pRUR+JnfDjV5FoksU=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA1-Digest: RzL1cD7o7wF2urkUyzpywO04rMw=
+
+Name: assets/bin/Data/Managed/Assembly-UnityScript.dll
+SHA1-Digest: xHV04FZMcOJsFJ1tPuWPQunRBrM=
+
+Name: assets/bin/Data/sharedassets8.assets
+SHA1-Digest: vq7d3XaB68pRUR+JnfDjV5FoksU=
+
+Name: assets/bin/Data/666b803d917634f0fa8bc0cbfbbf1604
+SHA1-Digest: ObhY0oqtYKhIC7E7/U4DWOd4s3Y=
+
+Name: assets/bin/Data/Managed/Boo.Lang.dll
+SHA1-Digest: R/zQiUwyOjb59qCOXAc6B8NDNKE=
+
+Name: lib/armeabi-v7a/libRenderingPlugin.so
+SHA1-Digest: N+zfsR511z20EAXq3J0VsnZoJMM=
+
+Name: assets/bin/Data/sharedassets3.assets
+SHA1-Digest: 432ihH5Jn2C+1xxXf3zJ7os06vk=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA1-Digest: dw2OybZRXfNYvJ91pZpmOHkwtbc=
+
+Name: lib/x86/libvrunity.so
+SHA1-Digest: PcjXbRt5Z7UIOeVv8VLfuRwRWW8=
+
+Name: assets/bin/Data/Managed/Mono.Posix.dll
+SHA1-Digest: /EmLi+IWcSWEsZ+3kN8SH4kxYHQ=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: luhJ5RFrV966X0awZ6i5O99kPG8=
+
+Name: assets/bin/Data/sharedassets9.assets
+SHA1-Digest: OZMSivlJFNiNPAduz9nwDap+d8k=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: YiKjLhvn0fG5bI4gR6jrHljWcaA=
+
+Name: assets/bin/Data/sharedassets0.assets.split14
+SHA1-Digest: 1oo93TUCJh8fC6FW1jn9aD6+NlU=
+
+Name: assets/bin/Data/level9
+SHA1-Digest: iIT/SyCm+AddZABc503yY/XwDwU=
+
+Name: assets/bin/Data/sharedassets0.assets.split13
+SHA1-Digest: s4+LX7mR6JNfYA+d92nyw7wMb+s=
+
+Name: assets/bin/Data/PlayerConnectionConfigFile
+SHA1-Digest: Qw8GKAIAE1/tp0GFT+gjkLaw200=
+
+Name: assets/bin/Data/level8
+SHA1-Digest: f3Jq1++xVeVfmoVIPv34hO7OXig=
+
+Name: assets/bin/Data/sharedassets0.assets.split16
+SHA1-Digest: QqMtuHjU/jD1lFG8m8mcOvHRXqU=
+
+Name: assets/bin/Data/level7
+SHA1-Digest: +noos0bZV4DHhdGhaOzS76/rIX8=
+
+Name: assets/bin/Data/sharedassets0.assets.split15
+SHA1-Digest: 8N5PDTL0W0jJ/qURMoSmZZoGP8I=
+
+Name: assets/bin/Data/level6
+SHA1-Digest: oQCpUjfFhvin3+5hZN5zwpqxYWQ=
+
+Name: assets/bin/Data/sharedassets0.assets.split18
+SHA1-Digest: Qu1F94911T6b08O0GERJp8w5xvg=
+
+Name: assets/bin/Data/level5
+SHA1-Digest: NvS0x5n5v+jAQj4ho1eNVldBFdc=
+
+Name: assets/bin/Data/sharedassets0.assets.split17
+SHA1-Digest: ACiwkwLd4bw5X9G03nbEANR93Go=
+
+Name: lib/armeabi-v7a/libvrunity.so
+SHA1-Digest: At1UtX9e9R8T8AsbjGobTMPUAGI=
+
+Name: res/drawable-xxxhdpi-v4/app_icon.png
+SHA1-Digest: lh4XdHdr7/5rHEyfi3T60h6OTlc=
+
+Name: assets/bin/Data/level4
+SHA1-Digest: 7XVVzoeJNBjHWIdrf/5Pk/s3uHY=
+
+Name: assets/bin/Data/sharedassets0.assets.split19
+SHA1-Digest: RZ9tpBkx07BtXs9hvJhj0yZd6/s=
+
+Name: assets/bin/Data/level3
+SHA1-Digest: +noos0bZV4DHhdGhaOzS76/rIX8=
+
+Name: assets/bin/Data/sharedassets2.assets
+SHA1-Digest: vq7d3XaB68pRUR+JnfDjV5FoksU=
+
+Name: assets/bin/Data/Managed/Assembly-UnityScript-firstpass.dll
+SHA1-Digest: hfklVaWJZDm3OdtgupI38x/75Eg=
+
+Name: assets/bin/Data/mainData
+SHA1-Digest: yMSL6Rg99ClOlYkmIsrOPRd6cZk=
+
+Name: assets/bin/Data/sharedassets5.assets
+SHA1-Digest: 7+vLg+F4Dx0p2tVAziqo+CQE/NY=
+
+Name: assets/bin/Data/205a8735b72af4a9d8602dda9a983f2f
+SHA1-Digest: m27nK0IIA62KRPgeyitgHrsQqx4=
+
+Name: assets/bin/Data/Managed/UnityScript.Lang.dll
+SHA1-Digest: EJ6mrp7wVoF6KASTw6eCPojqvVM=
+
+Name: assets/bin/Data/sharedassets0.assets.split10
+SHA1-Digest: GnEgbZhX6ekxbghU9oeZ8+BSWzk=
+
+Name: lib/x86/libmono.so
+SHA1-Digest: s7F2kj0LSIx6iLcZPfCQQTsbhWg=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: 4IDlTDYjo882XCEwZuIdm/C5XzY=
+
+Name: assets/bin/Data/sharedassets0.assets.split12
+SHA1-Digest: JJddL8KNiPPjrSx2ObpTLhifMG4=
+
+Name: assets/bin/Data/sharedassets0.assets.split11
+SHA1-Digest: EfsELAhv7D8S6+lgMU+a9yfYkmU=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: HXIkJowJkvQKbn/WzHuhC55eR7U=
+
+Name: assets/bin/Data/c22be0408cec74248b876d70c820053c
+SHA1-Digest: iWO5uLEK1alDsiRfdLwNU4/hczU=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll
+SHA1-Digest: y9YwtNdLaR0dswmsSAiBqNKiVno=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA1-Digest: dHNz8Vo2laUJWIq8iYF1LJKJorM=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: L1NEekf9k7wHY32RTuWdE4BwrlQ=
+
+Name: assets/bin/Data/sharedassets7.assets.split1
+SHA1-Digest: 8YyiY88/JpsgNqH35Lhp+YchGps=
+
+Name: assets/bin/Data/sharedassets7.assets.split0
+SHA1-Digest: r5WM899Vo00DkXRcSbM72QyU4os=
+
+Name: assets/bin/Data/level10
+SHA1-Digest: qoNXfi3Uv4DDBO9IPnDzgbfhONg=
+
+Name: res/drawable-hdpi-v4/app_icon.png
+SHA1-Digest: gpYnm0E7hvJcB3OhDz+MkmEutlo=
+
+Name: assets/bin/Data/bc707ac7319ae4f148a8ed3cbd156e4a
+SHA1-Digest: 45YYleTFvr3qqENaN0qpjiDbywo=
+
+Name: lib/armeabi-v7a/libmono.so
+SHA1-Digest: 5h9nJvOKm7kBJDyEyzWj03VjMqM=
+
+Name: resources.arsc
+SHA1-Digest: ZXsRAxjtP6FtBnufkjLAIYCGg5E=
+
+Name: assets/bin/Data/sharedassets11.assets
+SHA1-Digest: 5dcw61Ij2KL5QMZCn3YvcHI3eqc=
+
+Name: assets/bin/Data/Managed/System.Security.dll
+SHA1-Digest: 7rHh7ELb3ne0DvfCccvuHi41S6E=
+
+Name: lib/x86/libRenderingPlugin.so
+SHA1-Digest: Oholm0Bl64FJBNJRyy1ZThoY8Xo=
+
+Name: assets/bin/Data/sharedassets6.assets
+SHA1-Digest: HaEPKIav+UfmrnwstS/emFAE4aE=
+
+Name: assets/bin/Data/Managed/System.Configuration.dll
+SHA1-Digest: mv3atWBV9/JpRDyXJT6mcU/QspY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: FGCGWGH2Oxh8DBaZsVJmDLaCTWw=
+
+Name: assets/bin/Data/beaebe8e7b47e4c0b93b51fad8fb14a2
+SHA1-Digest: AnUf0JIrjDfUFS1GPiYDe9iYCuY=
+
+Name: assets/bin/Data/level0
+SHA1-Digest: Xk7ZfIQxTuDggJ3Ki/c1VQPFZDY=
+
+Name: assets/bin/Data/level2
+SHA1-Digest: eaYXl94FDhJB3ys+A3K9MvxOfFE=
+
+Name: assets/bin/Data/level1
+SHA1-Digest: +noos0bZV4DHhdGhaOzS76/rIX8=
+
+Name: assets/bin/Data/sharedassets0.assets.split5
+SHA1-Digest: lhfGJcjAUbIZhQgMdvh5MnwajVc=
+
+Name: assets/bin/Data/sharedassets0.assets.split4
+SHA1-Digest: 53rApnRoJEvs0Ye9JqDEOGACOsk=
+
+Name: assets/bin/Data/sharedassets0.assets.split3
+SHA1-Digest: bG8Cdt6yLXbtxVICtau3HRYzAik=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA1-Digest: 3j12sryS4xBzMdFcyVOvZ0IBNXY=
+
+Name: assets/bin/Data/Managed/System.Xml.dll
+SHA1-Digest: NNuLwANviiB9Wu9NrL2EJsOxb4Q=
+
+Name: res/drawable-xxhdpi-v4/app_icon.png
+SHA1-Digest: tkEgSinIR6HOxYGNnfzfDXgY4Fg=
+
+Name: assets/bin/Data/sharedassets0.assets.split2
+SHA1-Digest: ItRtfqjdj/zv97FqP7lp/1PpS+Q=
+
+Name: assets/bin/Data/sharedassets0.assets.split1
+SHA1-Digest: 8LFwcxUxDyeoFFw0H7zLgZmQiFI=
+
+Name: assets/bin/Data/sharedassets0.assets.split0
+SHA1-Digest: UQl4aRiSOqVE/EOk79XFGgzJKCY=
+
+Name: assets/bin/Data/sharedassets1.assets.split3
+SHA1-Digest: fVIiaNu5R9N1aSx/YGGnuJGENfI=
+
+Name: assets/bin/Data/sharedassets1.assets.split1
+SHA1-Digest: Vdt2n7vTF6EYi0m+SZ4DIexUeww=
+
+Name: assets/bin/Data/sharedassets1.assets.split2
+SHA1-Digest: AItAvUMnZ9f2jVw1N4XCPal6HkY=
+
+Name: classes.dex
+SHA1-Digest: XFLGd+laNbuDfhnLMekFL+W2eg0=
+
+Name: assets/bin/Data/sharedassets1.assets.split0
+SHA1-Digest: S1cV4KMWOQvHB8QqTSWbFu7jsyY=
+
+Name: assets/bin/Data/settings.xml
+SHA1-Digest: M6C2fmT6PB8V1/Z3oUwF5BlqYxM=
+
+Name: res/drawable-ldpi-v4/app_icon.png
+SHA1-Digest: gOtOepC25eDEXS9Lr22PBqdd83I=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: Wxmovd3jGu4rEUcmLPyTyJOykP8=
+
+Name: assets/bin/Data/Managed/OpenIAB_W8Plugin.dll
+SHA1-Digest: M7XQx82DjU8KGIAJyupB5O9J4XE=
+
+Name: assets/bin/Data/sharedassets10.assets
+SHA1-Digest: 0Vyw+i2LpRZ3dg425i499NvWCXs=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA1-Digest: ugLJYWUToJl23Ep1hiJb506YLjU=
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA1-Digest: eckUEHtzJao7EgU/7n/F34IHuC8=
+
+Name: lib/x86/libunity.so
+SHA1-Digest: 0qV2om4YqRVDk06eaBdu5sJirK8=
+
+Name: assets/bin/Data/sharedassets0.assets.split8
+SHA1-Digest: Qf7jiD8XYLKUHuk1zaTBhBPx75g=
+
+Name: assets/bin/Data/sharedassets0.assets.split9
+SHA1-Digest: KjW8OKxOGvjSqObQTi2u09MxP5E=
+
+Name: lib/x86/libmain.so
+SHA1-Digest: a6qzwO7Iq/4iQswgudjUqoQ2xpY=
+
+Name: assets/bin/Data/sharedassets0.assets.split6
+SHA1-Digest: xnAQ9irSaXiM4Tk/ttqGGDRpjDM=
+
+Name: assets/bin/Data/sharedassets0.assets.split7
+SHA1-Digest: iEwshX/l/U2DPAJXndsMdIs09kc=
+
